@@ -1,6 +1,7 @@
 # budget-app-JavaScript
 
-<p>This is budget app. User can keep record of there income etc. <p>
+<p>This is simple budget app in which user can keep record of there INCOME , EXPENSES and this app will give you remaining balance.
+You can enter your income with description or expense and it will automatically calculate the balance . To know more plz check the app.<p>
 
 <h2>Tools</h2>
 <ul>
